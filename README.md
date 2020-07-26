@@ -1,6 +1,6 @@
 Go HMMM Assembler Emulator
 --------------------------
-[Language specification][https://www.cs.hmc.edu/~cs5grad/cs5/hmmm/documentation/documentation.html]
+[Language specification](https://www.cs.hmc.edu/~cs5grad/cs5/hmmm/documentation/documentation.html)
 
 Warnings
 
